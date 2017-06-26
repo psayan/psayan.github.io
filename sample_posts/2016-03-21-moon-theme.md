@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
+title:  "Using Moon Jekyll Theme"
+date:   2017-06-26
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
 tag:
@@ -17,7 +17,7 @@ comments: true
     
 <center><b>Moon</b> is a minimal, one column jekyll theme.</center>
      
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+ I'm a developer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
       
